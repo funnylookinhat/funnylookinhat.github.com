@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[FunnyLookinHat / David Overcash]]></title>
+  <link href="http://funnylookinhat.github.com/atom.xml" rel="self"/>
+  <link href="http://funnylookinhat.github.com/"/>
+  <updated>2014-02-13T09:10:09-07:00</updated>
+  <id>http://funnylookinhat.github.com/</id>
+  <author>
+    <name><![CDATA[David Overcash]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lost _posts again]]></title>
+    <link href="http://funnylookinhat.github.com/blog/2014/02/13/lost-posts-again/"/>
+    <updated>2014-02-13T08:51:00-07:00</updated>
+    <id>http://funnylookinhat.github.com/blog/2014/02/13/lost-posts-again</id>
+    <content type="html"><![CDATA[<p>I lost my _posts folder again.  I really need to stop forgetting this crucial step after updating.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git add .
+</span><span class='line'>git commit -m 'your message'
+</span><span class='line'>git push origin source</span></code></pre></td></tr></table></div></figure>
+
+
+<p>For good measure I&#8217;ve just added the following as a bash script named &#8220;UPDATEBLOG&#8221; because I&#8217;m clearly hopeless.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>#!/bin/bash
+</span><span class='line'>
+</span><span class='line'>DATETIME=`date +"%Y-%m-%d_%T"`
+</span><span class='line'>
+</span><span class='line'>rake generate
+</span><span class='line'>rake deploy
+</span><span class='line'>
+</span><span class='line'>git add .
+</span><span class='line'>git commit -m "Automated blog backup: $COMMIT"
+</span><span class='line'>git push origin source</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Catch up post incoming&#8230;</p>
+]]></content>
+  </entry>
+  
+</feed>
