@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Catch Up 1: The Colors Duke - FunnyLookinHat / David Overcash</title>
+  <title>Gotta Start Somewhere - FunnyLookinHat / David Overcash</title>
   <meta name="author" content="David Overcash">
 
   
-  <meta name="description" content="Whenever I&rsquo;m trying to come up with a quick theme for a site that I&rsquo;m building ( a one page or something of that sort ), I usually head &hellip;">
+  <meta name="description" content="Making Ideas Reality: Part 1 I&rsquo;ve had an idea for the past few years to build something that could be quite innovative and impressive for the &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://funnylookinhat.github.com/blog/2014/02/14/catch-up-1-the-colors-duke">
+  <link rel="canonical" href="http://funnylookinhat.github.com/blog/2014/02/17/gotta-start-somewhere">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="FunnyLookinHat / David Overcash" type="application/atom+xml">
@@ -80,7 +80,7 @@
   
   <header>
     
-      <h1 class="entry-title">Catch Up 1: The Colors Duke</h1>
+      <h1 class="entry-title">Gotta Start Somewhere</h1>
     
     
       <p class="meta">
@@ -96,7 +96,7 @@
   
 
 
-<time datetime="2014-02-14T05:40:00-07:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time>
+<time datetime="2014-02-17T05:36:37-07:00" pubdate data-updated="true">Feb 17<span>th</span>, 2014</time>
         
            | <a href="#disqus_thread"
              data-disqus-identifier="http://funnylookinhat.github.com">Comments</a>
@@ -106,34 +106,25 @@
   </header>
 
 
-<div class="entry-content"><p>Whenever I&rsquo;m trying to come up with a quick theme for a site that I&rsquo;m building ( a one page or something of that sort ), I usually head over to <a href="http://colorschemedesigner.com/">colorschemedesigner.com</a> and just start randomly throwing in something of the blue or green variety.</p>
+<div class="entry-content"><h2>Making Ideas Reality: Part 1</h2>
 
-<p>In particular, I&rsquo;ve been digging <a href="http://colorschemedesigner.com/#2P41Tllo0w0w0http://colorschemedesigner.com/#2P41Tllo0w0w0">this colorset</a> quite a bit lately.  Our house has lots of bold natural colors, and from my place in the shame-corner of the web design world, I&rsquo;d venture to guess that bold naturals are coming back &ndash; ergo, we are trendy.</p>
+<p>I&rsquo;ve had an idea for the past few years to build something that could be quite innovative and impressive for the Internet; its focus is to create collaborative virtual world experiences that are distributed and different across a wide array of servers.  I don&rsquo;t want to dig into the details of it too far on this post &ndash; it would be too much to write this morning &ndash; but suffice it to say, it&rsquo;s the absolute best idea I have right now and I&rsquo;m working to prototype it as quickly as I can.</p>
 
-<p><img class="center" src="/images/posts/natural_colors.png"></p>
+<p>That being said &ndash; the first step in prototyping virtual worlds and creating unique 3D experiences with WebGL is <strong>obviously</strong> to learn a ton of WebGL; this was not so obvious to me at the beginning.  I had been waffling for a long time &ndash; whiteboarding in my spare time, using up dozens of legal pads and pencils, staring off into space at the gym simply thinking about all of the myriad problems to solve.  I think the best way to describe what I&rsquo;m good at is architecting elegant systems to solve complex problems, but for me to be able to do that well, I often focus on loading the entire system into my brain over and over again until I&rsquo;ve created a solution for every single use-case and connection within the system.  Ultimately, I often won&rsquo;t move forward on a project until I can hold the entire system in a mish-mash of whiteboards, legal pads, and synapses and see it working.</p>
 
-<p>Take special note of what I just said there: <em>I&rsquo;d venture to guess</em> that bold naturals are coming back.  <strong>Emphasis added.</strong>  Because that&rsquo;s what you should notice.</p>
+<p>This was essentially leaving me at a stalemate with progress on my project &ndash; and I realized that I needed to simply stop worrying about a lot of the details down the road and focus on building the blocks that I knew would be useful no matter what the final system looked like.  So I began to think about what would be necessary and focused on just one piece: WebGL.</p>
 
-<p>There&rsquo;s a reason we ( coders ) should preclude even our most grandiose thoughts on design with &ldquo;venture to guess&rdquo;: we had our chance and we blew it.  Need I remind you what the Internet looked like when programmers and <em>l337 h4ckers</em> had their way with things?</p>
+<p>I made a goal for myself &ndash; figure out how to create a small environment with trees and shrubs and whatnot, and use it as a simple benchmark for browser performance.  <strong>Small, simple, goal.</strong></p>
 
-<p><img class="center" src="/images/posts/ugly_website.png"></p>
+<p>I dug into <a href="http://threejs.org/">three.js</a> and started learning everything I could about models and the limits of browser renderering.  I learned how to use Blender ( albeit, at the most basic level ) so that I could manage different model resources.  I asked a million questions on IRC and scraped every ounce of wisdom I could from tutorials and demos I found across the web.  After two weekends and shoe-horning effort into every spare minute I had, I was able to produce a simple demo.</p>
 
-<p>Three important things to note:</p>
+<p><img class="center" src="/images/posts/world-demo-preview.jpg"></p>
 
-<ol>
-<li>We all did this &ndash; not one of us isn&rsquo;t guilty.</li>
-<li>Shortly after clicking &ldquo;OK&rdquo; on that alert I managed to steal his code and totally hack his website.  He has yet to counter-hack me.</li>
-<li>If you ever need an example of a bad website from the GeoCities / Angelfire days, just google &ldquo;diablo guild [cool mythological word] [even better word]&rdquo;.  For example &ldquo;diablo guild angels fury&rdquo; or &ldquo;diablo guild shadows night&rdquo;.  It goes without saying that I had two Diablo guilds back in the hey-day: Angels of Fury and Shadows of the Night.  We pwned.</li>
-</ol>
+<p>If you&rsquo;ve got a good browser ( Chrome, Firefox, etc. ) you can check it out here: <a href="http://funnylookinhat.com/world-demo/">http://funnylookinhat.com/world-demo/</a>.  That&rsquo;s hosted on Github &ndash; a service which doesn&rsquo;t seem to love the idea of hosting large amounts of binary data on its pages service &ndash; so you might have to be a bit patient with the loading experience.</p>
 
+<p>This post is ultimately one in a series about progress, so forgive me for what must be an anti-climatic ending.  At the end of those two grueling weeks I had this demo to show for myself &ndash; which wasn&rsquo;t half bad &ndash; but ultimately was a far cry where I wanted to be.  That didn&rsquo;t matter though &ndash; as I had at least gotten something done and could point to it.  I had come from knowing absolutely nothing about WebGL ( or GL at all, for that matter ) to being able to string together this&hellip; thing.  But progress is good, it got me started, and now I&rsquo;m much further along than I was then.</p>
 
-<p>My point is this &ndash; the Internet was the most visually unappealing mish-mash of colors until the designers of the world rolled up their sleeves, learned what UX was, and started telling us what to do.  Designers have taught me to use one bold color, one accent color, and have my content be fairly monochromatic.</p>
-
-<p>So &ndash; rather than use every single ( albeit amazing ) color in that natural color theme above &ndash; I&rsquo;ve implemented it on this site by pulling in just two colors ( background and header sub-title ).  It&rsquo;s taken a while, but I think I can finally trust myself with a very basic site design.</p>
-
-<p>The most important thing I&rsquo;ve learned in the last 5 or 6 years of web work is how to work well with designers.  It takes time!  You need to be able to collaborate, offer clear UX suggestions, try to run with their ideas when appropriate, and continually remind yourself of what the Internet was when you had your reign.</p>
-
-<p>Designers. I, for one, am grateful for our new color overlords.</p>
+<p>Next time we&rsquo;ll talk about seizing inspiration; should be a fun time.</p>
 </div>
 
 
@@ -156,7 +147,7 @@
   
 
 
-<time datetime="2014-02-14T05:40:00-07:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time>
+<time datetime="2014-02-17T05:36:37-07:00" pubdate data-updated="true">Feb 17<span>th</span>, 2014</time>
       
 
 
@@ -164,7 +155,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://funnylookinhat.github.com/blog/2014/02/14/catch-up-1-the-colors-duke/" data-via="" data-counturl="http://funnylookinhat.github.com/blog/2014/02/14/catch-up-1-the-colors-duke/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://funnylookinhat.github.com/blog/2014/02/17/gotta-start-somewhere/" data-via="" data-counturl="http://funnylookinhat.github.com/blog/2014/02/17/gotta-start-somewhere/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -177,10 +168,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2014/02/13/lost-posts-again/" title="Previous Post: Lost _posts again">&laquo; Lost _posts again</a>
+        <a class="basic-alignment left" href="/blog/2014/02/14/catch-up-1-the-colors-duke/" title="Previous Post: Catch Up 1: The colors Duke">&laquo; Catch Up 1: The colors Duke</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2014/02/17/gotta-start-somewhere/" title="Next Post: Gotta Start Somewhere">Gotta Start Somewhere &raquo;</a>
       
     </p>
   </footer>
@@ -238,8 +227,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://funnylookinhat.github.com/blog/2014/02/14/catch-up-1-the-colors-duke/';
-        var disqus_url = 'http://funnylookinhat.github.com/blog/2014/02/14/catch-up-1-the-colors-duke/';
+        var disqus_identifier = 'http://funnylookinhat.github.com/blog/2014/02/17/gotta-start-somewhere/';
+        var disqus_url = 'http://funnylookinhat.github.com/blog/2014/02/17/gotta-start-somewhere/';
         var disqus_script = 'embed.js';
       
     (function () {
