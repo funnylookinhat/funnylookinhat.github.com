@@ -4,7 +4,7 @@
 
 body {
 	background: $color-light-gray;
-	font-family: $font-family-monospace;
+	font-family: $font-family-serif;
 	color: $color-dark-gray;
 	overflow-x: hidden;
 }
@@ -33,7 +33,18 @@ h5 { font-size: 1.5rem; }
 h6 { font-size: 1.25rem; }
 
 p {
-	line-height: 1.5rem;
+	line-height: 1.75rem;
+	font-size: 1.25rem;
+
+	@media #{$medium-up} { 
+		font-size: 1.25rem;
+	}
+
+	a {
+		font-weight: 700;
+		color: $color-light-blue;
+		text-decoration: underline;
+	}
 }
 
 a {
