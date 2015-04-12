@@ -5,14 +5,12 @@
 var paths = {
 	src: {
 		scripts: [
-			/*
 			'bower_components/modernizr/modernizr.js',
 			'bower_components/jquery/dist/jquery.min.js',
 			'bower_components/fastclick/lib/fastclick.js',
 			'bower_components/jquery.cookie/jquery.cookie.js',
 			'bower_components/jquery-placeholder/jquery.placeholder.js',
 			'bower_components/foundation/js/foundation.min.js', 
-			*/
 			'src/scripts/**/*.js'
 		],
 		styles: [
@@ -20,8 +18,13 @@ var paths = {
 		],
 		fonts: [ 
 			'src/fonts/**/*', 
-			'src/bower_components/font-awesome/fonts/*.{eot,svg,ttf,woff,otf}' 
+			'bower_components/font-awesome/fonts/*.{eot,svg,ttf,woff,otf}' 
 		]
+	},
+	clean: {
+		scripts: '../scripts/**/*',
+		styles: '../styles/**/*',
+		fonts: '../fonts/**/*'
 	},
 	dest: {
 		scripts: '../scripts',
@@ -39,53 +42,57 @@ var gulp = require('gulp'),
 	gulpAutoprefixer = require('gulp-autoprefixer'),
 	gulpUglify = require('gulp-uglify'),
 	gulpClean = require('gulp-clean'),
-	gulpConcat = require('gulp-concat');
+	gulpConcat = require('gulp-concat'),
+	gulpPlumber = require('gulp-plumber');
 
 gulp.task('styles', function() {
 	return gulp.src( paths.src.styles )
+		.pipe(gulpPlumber())
 		.pipe(gulpSass({ style: 'compressed' }))
 		.pipe(gulpAutoprefixer('last 2 version', '> 5%', 'safari 5', 'ie 7', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
-		.pipe(gulp.dest( paths.dest.styles ))
-		.pipe(gulpLiveReload( liveReload ));
+		.pipe(gulp.dest( paths.dest.styles ));
 });
 
 gulp.task('fonts', function() {
 	return gulp.src( paths.src.fonts )
+		.pipe(gulpPlumber())
 		.pipe(gulp.dest( paths.dest.fonts ));
 });
 
 gulp.task('scripts', function() {
 	return gulp.src( paths.src.scripts )
+		.pipe(gulpPlumber())
 		.pipe(gulpUglify())
 		.pipe(gulpConcat('flh.js'))
-		.pipe(gulp.dest( paths.dest.scripts ))
-		.pipe(gulpLiveReload( liveReload ));
+		.pipe(gulp.dest( paths.dest.scripts ));
 });
 
 gulp.task('clean', function() {
 	return gulp.src([ 
-			paths.dest.styles, 
-			paths.dest.fonts, 
-			paths.dest.scripts, 
-			paths.dest.images,
-			paths.dest.templates+'/**/*html'
+			paths.clean.styles, 
+			paths.clean.fonts, 
+			paths.clean.scripts
 		], {read: false})
-		.pipe(gulpClean());
+		.pipe(gulpPlumber())
+		.pipe(gulpClean({force:true}));
 });
 
 gulp.task('clean-styles', function() {
-	return gulp.src([ paths.dest.styles ], {read: false})
-		.pipe(gulpClean());
+	return gulp.src([ paths.clean.styles ], {read: false})
+		.pipe(gulpPlumber())
+		.pipe(gulpClean({force:true}));
 });
 
 gulp.task('clean-scripts', function() {
-	return gulp.src([ paths.dest.scripts ], {read: false})
-		.pipe(gulpClean());
+	return gulp.src([ paths.clean.scripts ], {read: false})
+		.pipe(gulpPlumber())
+		.pipe(gulpClean({force:true}));
 });
 
 gulp.task('clean-fonts', function() {
-	return gulp.src([ paths.dest.fonts ], {read: false})
-		.pipe(gulpClean());
+	return gulp.src([ paths.clean-fonts.fonts ], {read: false})
+		.pipe(gulpPlumber())
+		.pipe(gulpClean({force:true}));
 });
 
 gulp.task('default', ['clean'], function() {
