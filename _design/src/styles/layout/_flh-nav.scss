@@ -1,4 +1,13 @@
 .flh-nav {
+
+	img.profile {
+		border: 1px solid $color-light-blue;
+		border-radius: 2rem;
+		display: block;
+		width: 95%;
+		margin: 0 auto;
+	}
+
 	ul.side-nav {
 		margin: 0;
 		
@@ -10,7 +19,7 @@
 				font-size: 1.5rem;
 				font-weight: 500;
 				line-height: 1.5rem;
-				padding: 1rem 0;
+				padding: 0;
 				color: $color-dark-blue;
 
 				hr {
@@ -26,7 +35,7 @@
 				}
 			}
 
-			a {
+			a.icon-button {
 				display: block;
 				background: $color-light-blue;
 				border: 1px solid $color-light-blue;
@@ -37,7 +46,7 @@
 				padding: 0.1rem 0.3rem;
 			}
 
-			a:hover {
+			a.icon-button:hover {
 				background: $color-lightest-blue;
 				/* color: $color-dark-gray; */
 			}
@@ -45,16 +54,73 @@
 			&.icon-list {
 				margin: 1rem 0;
 				padding-left: 1rem;
-				i.fa {
+				font-weight: 700;
+
+				a {
+					color: $color-dark-gray;
+				}
+
+				.icon {
+					display: inline-block;
+					width: 1.5rem;
+					text-align: center;
 					color: $color-light-blue;
 					margin: 0 0.2rem 0 0;
-					/*
-					background: $color-light-blue;
-					border: 1px solid $color-light-blue;
-					border-radius: 0.3rem;
-					*/
+				}
+				
+				i.fa-slack {
+					-ms-transform: rotate(19deg);
+					-webkit-transform: rotate(19deg);
+					transform: rotate(19deg);
+				}
+
+				i.fa-github {
+					font-size: 1.3rem;
+				}
+
+				i.fa-google-plus-square {
+					font-size: 1.1rem;
 				}
 			}
 		}
 	}
 }
+
+/*
+// PULLED FROM SIDEBAR
+
+<hr>
+
+<ul class="side-nav">
+	<li class="header text-center">
+		What to read next
+	</li>
+	<li>
+		<a class="icon-button" href="#">
+			<i class="fa fa-ship"></i>
+			Go is the new Go
+		</a>
+	</li>
+	<li>
+		<a class="icon-button" href="#">
+			<i class="fa fa-ship"></i>
+			Go is the new Go
+		</a>
+	</li>
+	<li>
+		<a class="icon-button" href="#">
+			<i class="fa fa-ship"></i>
+			Go is the new Go
+		</a>
+	</li>
+	<li>
+		<a class="icon-button" href="#">
+			<i class="fa fa-ship"></i>
+			Go is the new Go
+		</a>
+	</li>
+	
+</ul>
+
+<hr>
+ */
