@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/funnylookinhat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://funnylookinhat.com
+  * I am funnylookinhat (https://keybase.io/funnylookinhat) on keybase.
+  * I have a public key with fingerprint 91DE 53B8 0E8C 2CFD 4872  92B9 5E54 CB0E 6AF7 BDE5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101474e94e67e95bd7b071ada3fbd54e6a84882890b74051a4bccb7647e8e740fad0a",
+      "fingerprint": "91de53b80e8c2cfd487292b95e54cb0e6af7bde5",
+      "host": "keybase.io",
+      "key_id": "5e54cb0e6af7bde5",
+      "kid": "0101474e94e67e95bd7b071ada3fbd54e6a84882890b74051a4bccb7647e8e740fad0a",
+      "uid": "14f11591df9e1fdbbfedc9c4924d1619",
+      "username": "funnylookinhat"
+    },
+    "service": {
+      "hostname": "funnylookinhat.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507065836,
+  "expire_in": 157680000,
+  "prev": "9275dea132c2273a33ce54a5573b38c9c23ff285041c160052629c31f9cd4f9d",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJtSBRBGMfvzMqXhILeMKlYkKDEdnZnd2cPJCqikCh6xTA4Z2Zn7zZ1
+97rdOzUzSIhCo8I+JL1RXRGhH9LCwIzMTnqnILKoDJGQpL7UfYvSZqW++bH5Mszz
+/J7//J9nJl0wI5AXXHvjw+DJTb0Lg88epBKBPa8nvzUKxDEahFCjUM2mNlZjMNcL
+V1uGEBJEIAKoQaZDpmpMV4ihEVED2MCySQyFRzGCCElIF4kGRQVgSCglmgo1hhiP
+mNgQsVAimJYdYfFY3LI9LqsDgykyQSJDVKKmAZEm6RLRFaZASkSuamqEI7ww6rh+
+BTdHsMtKLYfH+CE8ZW8a/j/7TkzJAWgCoHDXps6AaRBiMoPqFOoSNIAKdB90WdzG
+tYzTZsK2G2ocp9qyo9gTmkoEnktalPnj9fuZliulTi3XicUdz6FODc9HPS8W8su9
+hpjP1zES/qsUJpZt8JHygiSLu5ZjCyHASepZvjRQRE1UFSSrJQKrj1lxFrZ8QtFU
+JPLlX8OS/kNImmIwDGSJSpImY1mmfKRYUTSZyIi3KMmmKSFFhIACVRQVSZV0KgNT
+pwY0dUPwe9tvO0JIgtwnjnBN14rY2EvEmdA00L83OxDMC8yameX/tUBe7tx/P3Ae
+yQmc63sT7+mNHps1eTt9ovvbxoh+of7ovSObW1pT18vHun53r2SXc9DGx4Xpl11L
+t+Q/RJNb66ILRlbgTufOR3xl8bCzpCK7qrmzowjl/GxvH92JYmd78PpVP74PZNqk
+59V1uG14+8XmNramWbl6rAN7Wmawb+muc48fpbO1TMG2aGWFOvGdPn3y6eCt4XXL
+3j7/knW+89ScofyiwMv7WYuOpztnpyYOrS5t3+HOSJAz400R+f3nslF3bPtXvXDf
+r8Mt4617ypPd+O7N8twVRcVi1cr+V/OHUvJytQ+9KCuGhSdGbi1511xZfOn1hv7r
+Vj7JL9jtnt5x+FqGBr0nMw/8AeHjSAI=
+=B5Q6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/funnylookinhat
+
+==================================================================
+
