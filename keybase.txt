@@ -4,9 +4,9 @@ https://keybase.io/funnylookinhat
 
 I hereby claim:
 
-  * I am an admin of http://funnylookinhat.com
+  * I am an admin of https://funnylookinhat.com
   * I am funnylookinhat (https://keybase.io/funnylookinhat) on keybase.
-  * I have a public key with fingerprint 91DE 53B8 0E8C 2CFD 4872  92B9 5E54 CB0E 6AF7 BDE5
+  * I have a public key ASDakXSk-2Rwhr2eo5aPRyr7KhZ2nc_nWl9Gl0ZGU4W2lAo
 
 To do so, I am signing this object:
 
@@ -14,51 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101474e94e67e95bd7b071ada3fbd54e6a84882890b74051a4bccb7647e8e740fad0a",
-      "fingerprint": "91de53b80e8c2cfd487292b95e54cb0e6af7bde5",
       "host": "keybase.io",
-      "key_id": "5e54cb0e6af7bde5",
-      "kid": "0101474e94e67e95bd7b071ada3fbd54e6a84882890b74051a4bccb7647e8e740fad0a",
+      "kid": "0120da9174a4fb647086bd9ea3968f472afb2a16769dcfe75a5f469746465385b6940a",
       "uid": "14f11591df9e1fdbbfedc9c4924d1619",
       "username": "funnylookinhat"
     },
+    "merkle_root": {
+      "ctime": 1567431978,
+      "hash": "f7692d7010d865286423d9c82f7415b7839bdb26e5170e16233fe8c1bae172d24e83c48590820ef76f051886e76544e3fae542117c70a80d33523218c521c0a5",
+      "hash_meta": "9e8d9f8c25266c6b95ffacf24ca983d083dd821730466062c25e85885a7f7e96",
+      "seqno": 6151470
+    },
     "service": {
+      "entropy": "/fZ92NyWVCI83U1KYsXEuJ5P",
       "hostname": "funnylookinhat.com",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1507065836,
-  "expire_in": 157680000,
-  "prev": "9275dea132c2273a33ce54a5573b38c9c23ff285041c160052629c31f9cd4f9d",
-  "seqno": 24,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1567432002,
+  "expire_in": 504576000,
+  "prev": "c7b9b37299fc86ccf71d6d722afbb0f8852f9393803537c780eb78aa7fdab414",
+  "seqno": 102,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.74
-Comment: https://keybase.io/crypto
-
-yMIkAnicrZJtSBRBGMfvzMqXhILeMKlYkKDEdnZnd2cPJCqikCh6xTA4Z2Zn7zZ1
-97rdOzUzSIhCo8I+JL1RXRGhH9LCwIzMTnqnILKoDJGQpL7UfYvSZqW++bH5Mszz
-/J7//J9nJl0wI5AXXHvjw+DJTb0Lg88epBKBPa8nvzUKxDEahFCjUM2mNlZjMNcL
-V1uGEBJEIAKoQaZDpmpMV4ihEVED2MCySQyFRzGCCElIF4kGRQVgSCglmgo1hhiP
-mNgQsVAimJYdYfFY3LI9LqsDgykyQSJDVKKmAZEm6RLRFaZASkSuamqEI7ww6rh+
-BTdHsMtKLYfH+CE8ZW8a/j/7TkzJAWgCoHDXps6AaRBiMoPqFOoSNIAKdB90WdzG
-tYzTZsK2G2ocp9qyo9gTmkoEnktalPnj9fuZliulTi3XicUdz6FODc9HPS8W8su9
-hpjP1zES/qsUJpZt8JHygiSLu5ZjCyHASepZvjRQRE1UFSSrJQKrj1lxFrZ8QtFU
-JPLlX8OS/kNImmIwDGSJSpImY1mmfKRYUTSZyIi3KMmmKSFFhIACVRQVSZV0KgNT
-pwY0dUPwe9tvO0JIgtwnjnBN14rY2EvEmdA00L83OxDMC8yameX/tUBe7tx/P3Ae
-yQmc63sT7+mNHps1eTt9ovvbxoh+of7ovSObW1pT18vHun53r2SXc9DGx4Xpl11L
-t+Q/RJNb66ILRlbgTufOR3xl8bCzpCK7qrmzowjl/GxvH92JYmd78PpVP74PZNqk
-59V1uG14+8XmNramWbl6rAN7Wmawb+muc48fpbO1TMG2aGWFOvGdPn3y6eCt4XXL
-3j7/knW+89ScofyiwMv7WYuOpztnpyYOrS5t3+HOSJAz400R+f3nslF3bPtXvXDf
-r8Mt4617ypPd+O7N8twVRcVi1cr+V/OHUvJytQ+9KCuGhSdGbi1511xZfOn1hv7r
-Vj7JL9jtnt5x+FqGBr0nMw/8AeHjSAI=
-=B5Q6
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2pF0pPtkcIa9nqOWj0cq+yoWdp3P51pfRpdGRlOFtpQKp3BheWxvYWTESpcCZsQgx7mzcpn8hsz3HW1yKvuw+IUvk5OANTfHgOt4qn/atBTEING5X9r7WuP3kCGfJe9vj+FpTw7d9bvzc2LZfmasdyBhAgHCo3NpZ8RA+pKmAPpWH0RtrJ4EQxHFxfk50gS8dg0cflF4cNrlE7UXFcu7eJUxX+GlN5nfFsA03JT6tntCq1Dj2+kQc/81BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJy1/DdKrEp4MQU4z83hQj6Z/5m+QbcmU74CfddIxXeQo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/funnylookinhat
 
 ==================================================================
-
