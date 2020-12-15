@@ -1,9 +1,13 @@
+html {
+  background: white;
+  color: black;
+}
+
 body {
   font-family: monospace;
   max-width: 800px;
   margin: 0 auto;
   padding: 0 1rem;
-  background: #fff;
 }
 
 a {
@@ -23,7 +27,7 @@ li {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
+  html {
     background: #222222;
     color: #f0f0f0;
   }
