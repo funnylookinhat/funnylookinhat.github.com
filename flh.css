@@ -23,9 +23,9 @@ li {
 }
 
 @media (prefers-color-scheme: dark) {
-  html {
+  body {
     background: #222222;
-    color: white;
+    color: #f0f0f0;
   }
 
   a {
