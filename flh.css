@@ -26,6 +26,13 @@ li {
   margin: 0.25rem 0;
 }
 
+p.links {
+  text-align: center;
+  border-top: 1px solid #999;
+  padding: 1em 0;
+  margin: 2em 0;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     background: #222222;
@@ -43,11 +50,8 @@ li {
   a:active {
     color: #2c9e76;
   }
-}
 
-p.links {
-  text-align: center;
-  border-top: 1px solid #999;
-  padding: 1em 0;
-  margin: 2em 0;
+  p.links {
+    border-top-color: #ccc;
+  }
 }
