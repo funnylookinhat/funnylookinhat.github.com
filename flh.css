@@ -29,8 +29,13 @@ li {
 p.links {
   text-align: center;
   border-top: 1px solid #999;
-  padding: 1em 0;
-  margin: 2em 0;
+  padding: 1em 0 0 0;
+  margin: 3em 0 1em 0;
+}
+
+p.license {
+  text-align: center;
+  color: #808080;
 }
 
 ul.gallery {
@@ -75,5 +80,9 @@ ul.gallery li img {
 
   p.links {
     border-top-color: #ccc;
+  }
+
+  p.license {
+    color: #cccccc;
   }
 }
