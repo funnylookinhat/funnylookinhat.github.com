@@ -33,6 +33,28 @@ p.links {
   margin: 2em 0;
 }
 
+ul.gallery {
+  display:  block;
+  border-top: 1px solid #999;
+  margin: 2em 0;
+  padding: 2em 0 0 0;
+  text-align: center;
+  list-style-type: none;
+}
+
+ul.gallery li {
+  display: inline-block;
+  margin: 1em 0;
+  width: 14em;
+  height: 14em;
+  text-align: center;
+  vertical-align: top;
+}
+
+ul.gallery li img {
+  max-height: 7em;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     background: #222222;
