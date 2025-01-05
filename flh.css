@@ -39,6 +39,30 @@ p.license {
   color: #808080;
 }
 
+ul.emojis {
+  display:  block;
+  border-top: 1px solid #999;
+  margin: 2em 0;
+  padding: 2em 0 0 0;
+  list-style-type: none;
+}
+
+ul.emojis li {
+  margin: 1em;
+  list-style-type: none;
+  height: 64px;
+}
+
+ul.emojis li span.emoji {
+  display: inline-block;
+  width: 100px;
+  text-align: left;
+}
+
+ul.emojis li span.emoji img {
+  height: 64px;
+}
+
 ul.gallery {
   display:  block;
   border-top: 1px solid #999;
