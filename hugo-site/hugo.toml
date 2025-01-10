@@ -1,0 +1,33 @@
+baseURL = 'https://funnylookinhat.com/'
+languageCode = 'en-us'
+title = 'FunnyLookinHat / David Overcash'
+theme = 'flh'
+
+[security]
+[security.exec]
+allow = ['asciidoctor']
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Emojis'
+pageRef = '/emojis'
+weight = 20
+
+[[menus.main]]
+name = 'Pictures'
+pageRef = '/pictures'
+weight = 30
+
+[[menus.main]]
+name = 'Presentations'
+pageRef = '/presentations'
+weight = 40
+
+[[menus.main]]
+name = "Places I've Worked"
+pageRef = '/work'
+weight = 50

@@ -1,0 +1,19 @@
+---
+title: "Emojis"
+date: 2025-01-10T05:58:30-05:00
+draft: false
+type: "home"
+---
+
+Test test test
+test
+
+== This is a file
+
+{{ range resources.Match "images/emojis/*" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ end }}
+
+Test
+
+Test
