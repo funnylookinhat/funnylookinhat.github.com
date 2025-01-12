@@ -1,0 +1,9 @@
+baseURL = 'https://funnylookinhat.com/'
+languageCode = 'en-us'
+title = 'FunnyLookinHat / David Overcash'
+
+disableKinds = ['taxonomy', 'term']
+
+[security]
+  [security.exec]
+    allow = ['asciidoctor']

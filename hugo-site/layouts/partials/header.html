@@ -1,0 +1,16 @@
+<div class="site-topbar">
+  <h3 class="site-title">
+    <span style="white-space: nowrap">FunnyLookinHat /</span>
+    <span style="white-space: nowrap">David Overcash</span>
+  </h3>
+  <ul class="site-navigation">
+    <li><a href="/">Home</a></li>
+    <li><a href="/">Photos</a></li>
+    <li><a href="/">Emojis</a></li>
+    <li><a href="/">Work</a></li>
+  </ul>
+</div>
+
+{{ if ne .Title "" }}
+  <h1 class="title">{{ .Title }}</h1>
+{{ end }}
