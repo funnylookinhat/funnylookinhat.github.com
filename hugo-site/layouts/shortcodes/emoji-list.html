@@ -1,0 +1,8 @@
+<ul class="emojis-gallery">
+  {{ $emojiDir := "images/emojis" }}
+  {{ range readDir (printf "static/%s" $emojiDir) }}
+  <li>
+    <a href="{{ printf "/%s/%s" $emojiDir .Name }}"><span class=emoji><img src="{{ printf "/%s/%s" $emojiDir .Name }}"></a></span><a href="{{ printf "/%s/%s" $emojiDir .Name }}">{{ printf "%s" .Name }}</a>
+  </li>
+  {{ end }}
+</ul>

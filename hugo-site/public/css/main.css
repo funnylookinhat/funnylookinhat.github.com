@@ -53,6 +53,11 @@ body {
   margin-left: 16px; /* Add spacing between navigation items */
 }
 
+.site-navigation li:not(:first-child) {
+  border-left: 1px solid #999;
+  padding-left: 16px;
+}
+
 .site-navigation a {
   text-decoration: none;
   color: inherit;
@@ -164,27 +169,26 @@ footer p.license {
   text-align: center;
 }
 
-ul.emojis {
+ul.emojis-gallery {
   display:  block;
-  border-top: 1px solid #999;
-  margin: 2em 0;
-  padding: 2em 0 0 0;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
 }
 
-ul.emojis li {
+ul.emojis-gallery li {
   margin: 1em;
   list-style-type: none;
   height: 64px;
 }
 
-ul.emojis li span.emoji {
+ul.emojis-gallery li span.emoji {
   display: inline-block;
   width: 100px;
   text-align: left;
 }
 
-ul.emojis li span.emoji img {
+ul.emojis-gallery li span.emoji img {
   height: 64px;
 }
 

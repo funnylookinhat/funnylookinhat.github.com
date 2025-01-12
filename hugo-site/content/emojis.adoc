@@ -2,6 +2,11 @@
 title: "Emojis"
 ---
 
-This line is from `content/firstpost.md`.
+:imagesdir: /images/emojis
 
-[Go to home](/)
+These are some emojis I've generated and use constantly in shared chat applications (e.g. Slack).  Feel free to use them yourself!
+
+[.greeting]
+The names should be pretty self-explanatory. *:-P*
+
+{{< emoji-list >}}
