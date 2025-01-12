@@ -2,11 +2,9 @@
 title: "Emojis"
 ---
 
-:imagesdir: /images/emojis
-
 These are some emojis I've generated and use constantly in shared chat applications (e.g. Slack).  Feel free to use them yourself!
 
 [.greeting]
 The names should be pretty self-explanatory. *:-P*
 
-{{< emoji-list >}}
+{{< emojis-gallery >}}
