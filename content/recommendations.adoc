@@ -1,0 +1,100 @@
+---
+title: "Recommendations: Books, Sites, Podcasts, etc."
+date: 2025-01-13T05:22:47-05:00
+draft: true
+---
+
+I've found a lot of great content over the years based on the recommendations
+of others. I figured I should pay that forward by sharing my own list.
+
+== Discovering Sites
+
+> In the early days of the Internet, it was common to see lists of
+  "favorite sites" or "friend links" shared between pages - creating a really
+  fun way to discover new content by clicking into a list of sites and
+  picking one at random.
+
+I've heard a lot of people pine for the "Old Internet" - especially over the
+last decade as social media has become the primary form of content sharing and
+consumption.  I'm not exactly sure what other people have in mind when they
+share this sentiment, but for me it's tied to the uniqueness of unpolished
+sites where people shared about themselves.  Contrast that with the sites where
+people share about something attention grabbing (as if they're trying to
+_influence_ you).
+
+My favorite websites from the 90s / 2000s era were often obsessed with a
+person's hobby - whether that be music, trading cards, games, movies,
+TV shows, etc.  That's how I discovered J-Pop Music, several of my favorite
+books, and even programming.
+
+It's almost **impossible** for sites like that to be discovered nowadays.
+Between search-engine-optimization and the frantic fight for attention and
+clicks on various ad-networks or affiliate links, a small website with a few
+pages of content won't even bubble to the top.  I've been trying to think of a
+protocol that would allow people to publish and share links, without the noise
+of social media, and use the information graph in a user-friendly way (e.g.
+for the benefit of the user, not the content) to surface recommendations to
+people.
+
+Until I figure that out - I'll just keep the tradition of linking to other sites
+and content alive here. :-)
+
+== Podcasts
+
+I find that I only have time for a few podcasts, or else I fall impossibly
+behind.  To that end, I've separated the podcasts I would recommend into two
+groups.
+
+=== Daily Listeners
+
+These are podcasts that I keep up with on a daily (or weekly, whatever the
+cadence is) basis.  I've ranked them in order of how much I prioritize getting
+to the most recent episode as soon as it has been uploaded.
+
+* https://oxide-and-friends.transistor.fm/[Oxide and Friends]
+** The hosts, Bryan Cantrill and Adam Leventhal, have been in tech since the
+   days of Sun Microsystems.
+** The discussions are a fantastic mix of opinions on hard-tech, tech
+   companies, and occasionally social commentary.
+** I think working with them at https://oxide.computer/[Oxide Computer Company]
+   would be a blast.
+
+* https://www.marketplace.org/shows/make-me-smart/[Make Me Smart]
+** The hosts, Kai Ryssdal and Kimberly Adams, offer thoughtful opinions on
+   current events with a focus on economics.
+** I appreciate their diversity of guests (and the diversity of the hosts
+   and guest hosts).
+** I found that I listened to this almost religiously for about 2 months
+   straight starting two years ago, and with that I decided to support it
+   financially.
+
+* https://www.marketplace.org/shows/marketplace/[Marketplace]
+** Also hosted by Kai Ryssdal.
+** A fantastic daily (M-F) podcast that focuses on US and World economic 
+   stories.
+** Marketplace has tons of other podcasts that are worth checking out! I don't
+   have time to keep up with all of them:
+   https://www.marketplace.org/shows/[Marketplace]
+
+=== Road Trip Favorites
+
+I dive into this list when I need to stock up on a few extra hours of content
+for a long drive.
+
+* https://freakonomics.com/[Freakonomics Radio]
+** Continuing with the theme of economics - this podcast explores all sorts of
+   unique stories that are either directly related to economics, or they apply
+   the theory of economics to them.
+** They have a handy page that lists their most popular episodes of all time:
+   https://freakonomics.com/get-started-with-freakonomics-radio-our-most-downloaded-episodes/[Get Started With Freakonomics Radio: Our Most Downloaded Episodes
+]
+
+* Radiolab
+
+* This American Life
+
+
+
+== Links
+
+== Books

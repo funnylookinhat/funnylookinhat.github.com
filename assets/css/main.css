@@ -10,6 +10,10 @@ body {
   margin: 0 auto;
 }
 
+p {
+  line-height: 1.5rem;
+}
+
 /**
  * 
  * LAYOUT CSS
@@ -181,6 +185,10 @@ ul.photos-gallery li img {
   max-height: 7em;
 }
 
+.ulist ul:not(:has(ul)) {
+  margin-bottom: 1rem;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     background: #222222;
@@ -202,4 +210,25 @@ ul.photos-gallery li img {
   p.links {
     border-top-color: #ccc;
   }
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+blockquote {
+  background: #efefef;
+  border-left: 2px solid #666;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
