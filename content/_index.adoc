@@ -1,0 +1,122 @@
+---
+title: ""
+---
+
+== Hello!
+
+[.greeting]
+My name is David Overcash, and I live in Maine, USA. *o/*
+
+This site is meant to be a brief introduction to myself and a collection of
+links and documents that I find interesting.
+
+=== Some things about myself
+
+* I grew up in the northern suburbs of Chicago, Illinois, USA.
+** The greatest gift of living near Chicago is a love for food.
+** Favorite Pizza: Chicago pub-style thin crust
+** Favorite Burrito: El Famous Burrito
+** Favorite Sandwich: Italian Beef (dipped!)
+** I'm lucky enough to live near a chicago-style hotdog joint:
+   https://g.co/kgs/V9GYNK4[Cormier's Dog House]
+* I've lived in the following places: Chicago (IL), West Lafayette (IN,
+  Purdue University), Denver (CO), Seattle (WA), Port Townsend (WA),
+  Portland (ME).
+* My partner and I have been together for 15+ years and have a son - Jasper.
+* I am software developer by trade.
+* I enjoy reading sci-fi and fantasy books.
+* I used to work out of a barn, but we moved!
+* I love to travel internationally.
+** My most recent trip was to Japan in April of 2023.</li>
+** All of the countries I've visited (in order of first visit) include:
+   Jamaica, France, United Kingdom, Uganda, The Netherlands, Denmark,
+  Sweden, Spain, Canada, Japan.
+* I have an eclectic music taste (from minimal European compositions to
+  Japanese Pop).
+* My family and I recently moved from Port Hadlock, Washington to Portland,
+  Maine, USA
+** If you're ever in Portland, Maine - let me know and we can meet up!
+** My goal for 2025 is to attend https://monktoberfest.com/[Monktoberfest]
+   now that it's nearby!
+
+=== Technical Stuff
+
+[.technical-stuff]
+* Lately I've been mostly writing code in *Node.js*; I keep looking for 
+  opportunities to use *Golang* or *Rust*.
+** I'm working on publishing a _"What I'm learning in YYYY"_ - a blog should
+   be up before the end of January 2025 which will include a post to that 
+   effect.
+* I currently am running Pop OS (GNU/Linux) as my daily driver.</li>
+* At our previous home in rural Washington, we worked with the local public
+  utility district to build out fiber service to our house. It was
+  a really fun technical project, and I'd be happy to share advice with
+  anyone looking to do the same!
+* Local Servers:
+** https://alder.funnylookinhat.com
+** (Hosting guide coming soon!)
+
+=== Projects
+
+Here are a few things I've created in the past:
+
+* https://github.com/funnylookinhat/vaultexec[Vaultexec] (Run applications
+  with Vault secrets)
+* https://interactive-world-demo.funnylookinhat.com[Virtual World Demo]
+** A while ago I was experimenting with 3D environments delivered through a
+   browser.  This was an attempt at seeing what current consumer-grade
+   hardware could handle through a 3D canvas.
+** Source can be found here:
+   https://github.com/funnylookinhat/interactive-world-demo
+* https://nodejs-world.funnylookinhat.com[Interactive Chat World]
+** An iteration on experimentation from the same train of thought as the
+   previous item.  This focused on creating a lightweight websocket server
+   and 2D renderer so that users could move their avatars around a shared
+   space and chat with each other.
+* https://beansbooks.com[BeansBooks]
+** An Open Source accounting platform I built while working at https://system76.com[System76].
+
+=== Get in touch!
+
+Feel free to use any of the following to communicate with me.
+
+* Email: mailto:funnylookinhat@gmail.com[funnylookinhat@gmail.com]
+** Need a more professional email address for a reference or otherwise?
+   Use mailto:dpovercash@gmail.com[dpovercash@gmail.com]
+* Phone: link:tel:17206639866[+1.720.6.NEWTON] (+1 720.663.9866)
+** As in, Isaac Newton!  It took quite a bit of time searching through
+   available Google Voice numbers to find a famous physicist, mathematician,
+   or computer scientist who had a last name available in an area code that
+   was local to where I lived at the time (Denver).
+* Github: https://github.com/funnylookinhat/
+* LinkedIn: https://www.linkedin.com/in/funnylookinhat/
+* Mastodon: https://toot.funnylookinhat.com/@funnylookinhat
+* [.line-through]#Keybase:# https://keybase.io/funnylookinhat
+** I've mostly stopped using Keybase since its aquisition, but I keep it
+   around just in case it's the only convenient method of communication for
+   someone.
+** I'll likely get rid of it completely once I stand up a Matrix server.
+* IRC: FunnyLookinHat
+** [.line-through]#Freenode#
+*** I've stopped participating in Freenode network.
+*** See
+   https://en.wikipedia.org/wiki/Freenode#Ownership_change_and_conflict[Freenode: Ownership change and conflict]
+   for a history of why that network is no longer as popular as it
+   used to be.
+** https://libera.chat/[libera.chat]
+*** #docker
+*** #ubuntu
+*** #solus
+*** #node.js
+*** #go-nuts
+** [.line-through]#http://d00mnet.com/[d00mnet]#
+*** Unfortunately, it appears this network is no longer operating.
+*** I had some amazing friends through this network - we all came together
+    in the #japan-a-radio channel as fans of J-Pop.
+*** If you used to idle there and would be interested in re-creating
+    the group from the #japan-a-radio channel, let me know.  I would be open
+    to hosting an IRC server.
+*** Coincidentally, the https://www.japanaradio.com/[Japan-A-Radio] station
+    has ceased operating.  It's a shame - as they had an excellent selection
+    of music and introduced me to a much wider array of J-Pop than I knew
+    existed.

@@ -1,0 +1,14 @@
+---
+title: "Photos"
+---
+
+This is a collection of photos from travels, where we've lived, or simply
+portraits.  I'm not even what I'd call an amateur photographer - these are all
+just taken with my phone camera - but I've enjoyed collecting them and figured
+others may appreciate them as well.
+
+You can get a rough idea of the subject and location based on the filename.
+If you're really curious about anything, you're always more than welcome to
+reach out and ask!
+
+{{< photos-gallery >}}

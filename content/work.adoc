@@ -1,0 +1,59 @@
+---
+title: "Places I've Worked"
+---
+
+Some visitors may find my employment history interesting. This list includes every job I've held all the way back to high school. *I've actually loved every job that I have had* (yes, even Best Buy).
+
+* *Best Buy* - Retail Sales for Computers.
+** I really enjoyed being able to sell customers exactly what they needed.
+** Claim to fame: I'd have customers come and ask for me specifically based on referrals they had received.
+*** When my manager asked why, customers said that "they heard David wouldn't force them to buy warranty extensions".
+*** This didn't make my boss too happy - but it's hard to justify a $200 service plan on a $300 eMachines PC.
+
+* *AirLogic* - Support and installation technician.
+** AirLogic was a wireless ISP in the Chicagoland area.
+** By working there I was able to convince the team to build the network out to include my house. This was my first experience with broadband internet!
+** Website no longer exists, but this link:https://web.archive.org/web/20041204032339/http://airlogic.net/[Wayback Archive] is from when I worked there.
+
+* *Re:sources IT* - Support specialist for user management.
+** I took a semester off from university and worked in downtown Chicago.
+** This was the "IT Company" for the North American link:https://www.publicisgroupe.com/en[Publicis Groupe] companies at the time.
+** I don't think I have ever worked near as many good lunch spots as this job.
+** I remember watching Zidane headbutt Materazzi from the office kitchen.
+** After playing for only half of the season, I still managed to snag third place in the company poker league.
+
+* *link:https://www.timber-lee.com/[Camp Timber-Lee]* - Camp counselor.
+** I loved summer camp as a kid; being able to be a counselor was even more fun.
+** Soundtrack to the summer: link:https://www.rockapella.com/[Rockapella].
+
+* *link:https://bennigans.com/[Bennigan's]* - Server.
+** Being a server at a restaurant is a great way to learn to manage a queue.
+** Free french fries, potato soup, and chicken fingers? Sounds like a poor college student's dream job.
+** I was somehow set up on a blind date with a customer's daughter once - it didn't go well.
+
+* *link:https://www.ccu.edu/[Colorado Christian University]* - Resident Assistant and Tutor.
+** Overlaying map searches for "ski resort" and "university" are *not* a good way to find a school.
+** I'd love to tutor or teach again; I was studying to become a Math teacher until the guiles of tech lured me away.
+
+* *link:https://www.wellcomemat.com/[WellcomeMat]* - Lead Web Developer.
+** I joined for a summer to write some code to rebuild the video players; they ended up convincing me to stay for a bit longer!
+** I loved working for a startup in a garage!
+** I lost count of exactly how many Chipotle burritos I ate in the 1.5 years I was there - but it was more than 100.
+*** The proper Chipotle order:
+**** Barbacoa Burrito. Black Beans. Brown Rice.
+**** Every salsa. Extra corn salsa. No dairy.
+**** Green Tobasco sauce drenched on every bite.
+
+* *link:https://system76.com/[System76]* - Lead Web Developer.
+** Hands down the best place a geek could work. Everything exuded nerdiness.
+** Best commute I've ever had: riding my bike 2 miles downtown in morning traffic.
+** Also best breakfast food: the burrito cart on 16th and Champa has the best green chili I've ever tasted!
+** Getting to go to Ubuntu and Intel conferences every year I worked there was a blast!
+** I'd love to cross paths with System76 again someday! (I moved on only because life was taking us away from Denver.)
+
+* *link:http://moz.com/[Moz]* - Principal Engineer.
+** This was my first experience working for what was essentially a silicon-valley-esque startup.
+** Going for walks on nice days near the waterfront or Pike Place market was a great way to give my brain a rest.
+** I've moved out of Seattle and still work for Moz as a full-time remote employee.
+** Moz is likely the single best place I will ever work. The company cares deeply about its employees and what it stands for.
+** My time at Moz has grown me as an engineer and a leader - and made me an overall better person (both in and out of work).

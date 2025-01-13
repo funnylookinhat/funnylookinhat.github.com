@@ -1,0 +1,16 @@
+<ul class="photos-gallery">
+  {{ $photoDir := "images/photos" }}
+  {{ range readDir (printf "assets/%s" $photoDir) }}
+    {{ $image := resources.Get (printf "%s/%s" $photoDir .Name) }}
+    {{ $thumbnail := $image.Resize "200x" }}
+    <li>
+      <a href="{{ printf "/%s/%s" $photoDir .Name }}">
+        <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Name | replaceRE "\\.[^.]+$" "" }}">
+      </a>
+      <p>
+        <a href="{{ printf "/%s/%s" $photoDir .Name }}">{{ .Name }}</a>
+      </p>
+    </li>
+  {{ end }}
+</ul>
+
