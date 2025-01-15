@@ -7,3 +7,7 @@ disableKinds = ['taxonomy', 'term']
 [security]
   [security.exec]
     allow = ['asciidoctor']
+
+[markup.asciidocExt]
+  [markup.asciidocExt.attributes]
+    toc = "true"
