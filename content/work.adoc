@@ -28,12 +28,24 @@ Some visitors may find my employment history interesting. This list includes eve
 
 * *link:https://bennigans.com/[Bennigan's]* - Server.
 ** Being a server at a restaurant is a great way to learn to manage a queue.
-** Free french fries, potato soup, and chicken fingers? Sounds like a poor college student's dream job.
-** I was somehow set up on a blind date with a customer's daughter once - it didn't go well.
+** Free french fries, potato soup, and chicken fingers? Sounds like a poor
+   college student's dream job.
+** I was somehow set up on a blind date with a customer's daughter (or neice?)
+   once.
+*** I thought I was giving this person a tour of the city - "Hey, welcome to
+    Denver.  Here's a good spot to find a coffee shop.  There are great urban
+    hikes near this area." etc.
+*** It turns out she thought we were on a date (I was likely oblivious, so the
+    error is on me), and to save face I took her to a restaurant with a nice
+    wine list.
+*** This is the evening I first found out what a nice wine list [.line-through]#was# cost.
+*** It went about as well as most blind dates go (or so I've heard).
 
 * *link:https://www.ccu.edu/[Colorado Christian University]* - Resident Assistant and Tutor.
-** Overlaying map searches for "ski resort" and "university" are *not* a good way to find a school.
-** I'd love to tutor or teach again; I was studying to become a Math teacher until the guiles of tech lured me away.
+** Overlaying map searches for "ski resort" and "university" is a great way to
+   ensure you have plenty to do in between classes during the winter.
+** I'd love to tutor or teach again; I was studying to become a Math teacher
+   until the guiles of tech lured me away.
 
 * *link:https://www.wellcomemat.com/[WellcomeMat]* - Lead Web Developer.
 ** I joined for a summer to write some code to rebuild the video players; they ended up convincing me to stay for a bit longer!
