@@ -51,6 +51,7 @@ p {
   margin: 0;
   font-family: monospace;
   font-weight: bold;
+  font-size: 0.8rem;
 }
 
 .site-navigation li {
