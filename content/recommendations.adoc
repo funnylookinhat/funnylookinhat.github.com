@@ -4,10 +4,21 @@ date: 2025-01-13T05:22:47-05:00
 draft: true
 ---
 
-toc::[]
-
 I've found a lot of great content over the years based on the recommendations
 of others. I figured I should pay that forward by sharing my own list.
+
+// TODO - Figure out how to get the :toc: macro to work!
+// It keeps rendering <!-- toc disabled -->
+
+*Table of Contents*
+
+* link:#_links[Links]
+* link:#_podcasts[Podcasts]
+** link:#_daily_listeners[Daily Listeners]
+** link:#_road_trip_favorites[Road Trip Favorites]
+* link:#_books[Books]
+** link:#_fiction[Fiction]
+** link:#_non_fiction[Non-Fiction]
 
 == Discovering Sites
 
@@ -38,8 +49,27 @@ of social media, and use the information graph in a user-friendly way (e.g.
 for the benefit of the user, not the content) to surface recommendations to
 people.
 
-Until I figure that out - I'll just keep the tradition of linking to other sites
-and content alive here. :-)
+Until I figure that out, I'll just keep the tradition alive of sharing my
+favorite sites, podcasts, books, tv shows, and more.
+
+== Links
+
+These are companies, people, blogs, etc. that I've found fun or worth following.
+I'm trying to avoid linking to ones that are likely well known
+(e.g. HackerNews, Lobsters, NPR, NY Times, etc.) and to focus only on those that
+you may be unaware of.
+
+* Blogs
+** https://xeiaso.net/[Xe Iaso]
+** https://bcantrill.dtrace.org/[Bryan Cantrill]
+** https://ahl.dtrace.org/[Adam Leventhal]
+* Computers & Tech
+** https://system76.com/[System 76]
+*** https://pop.system76.com/[Pop OS]
+* Miscellaneous
+** https://zombo.com/[Zombo.com]
+** https://streetcountdown.com/[Street Countdown]
+
 
 == Podcasts
 
@@ -91,12 +121,108 @@ for a long drive.
    https://freakonomics.com/get-started-with-freakonomics-radio-our-most-downloaded-episodes/[Get Started With Freakonomics Radio: Our Most Downloaded Episodes
 ]
 
-* Radiolab
+* https://radiolab.org/[Radiolab]
+** Although the original hosts have moved on, this is still a very fun podcast
+   that explores surprising or unexplainable discoveries.
+** I believe you can subscribe to a service to get access to the full historical
+   catalog of episodes.
+** Popular episodes can be found here if you don't know where to start:
+*** https://radiolab.org/popular[Popular Radiolab Episodes]
 
-* This American Life
-
-
-
-== Links
+* https://www.thisamericanlife.org/[This American Life]
+** A classic!  You'll always have a great conversation starter at the next
+   family dinner if you listen to an episode or two.
+** To this day, my favorite episode is the one where a father confesses to
+   pretending to be the police to get his toddler to go to sleep.
 
 == Books
+
+This is a list of books (from most to least recent) that I've read and would
+recommend.  I mostly read science fiction, but occasionally I will veer off into
+other genres.  Some I would recommend more than others; I've tried to provide
+some context for some of these based on what you may be looking for.
+
+This is a work in progress!  I'll randomly remember books I've read over the
+years and come back to this list and add them.
+
+> I've left off any books that I really wouldn't recommend at all.  That being
+said, the bar can be quite low for me as I'd prefer to have a book (any book!)
+ready to pick up and read.  As an example - I've included the Destroyermen
+Series - which was honestly ridiculous but good enough to read the first 6 or 7
+books while I was filling my "to read" list with others.  Not to speak ill of
+Destroyermen (I really enjoyed it!), but I think some people might put the book
+down right about the time a World War 1 Destroyer was transported through time
+and discovered an epic war between talking cats and walking lizards.
+
+=== Fiction
+
+* Wayfarers Series - Becky Chambers
+** 3/4 books read, will read the fourth one soon.
+** I'll likely jump to the 
+* Locked Tomb Series - Tamsyn Muir
+** I still need to read book 3
+* "Vatta's War" Series - Elizabeth Moon
+* Dark Matter - Blake Crouch
+* Recursion - Blake Crouch
+* The Rook - Daniel O'Malley
+* The Interdependency Series - John Scalzi
+* The Kaiju Preservation Society - John Scalzi
+* Redshirts - John Scalzi
+* Piranesi - Susanna Clarke
+* Jonathan Strange and Mr Norrell - Susanna Clarke
+* The Carls Series - Hank Green
+* The Passage Series - Justin Cronin
+* The Legends of the First Empire Series - Michael J. Sullivan
+* Termination Shock - Neal Stephenson
+* Destroyermen Series - Taylor Anderson
+* Project Hail Mary - Andy Weir
+* Old Man's War Series - John Scalzi
+* Fall; or, Dodge in Hell - Neal Stephenson
+* Artemis - Andy Weir
+* The Rise and Fall of D.O.D.O. - Neal Stephenson and Nicole Galland
+* The Martian - Andy Weir
+* The Divine Cities Series - Robert Jackson Bennett
+* Realm of the Elderlings Series (plural) - Robin Hobbs
+** I particularly enjoyed the following:
+*** Farseer trilogy
+*** Tawny Man trilogy
+*** Fitz and the Fool trilogy
+* Ready Player One Series - Ernest Cline
+* Seveneves - Neal Stephenson
+* Hyperion - Dan Simmons
+* The Kingkiller Chronicle - Patrick Rothfuss
+* Reamde - Neal Stephenson
+* Cryptonomicon - Neal Stephenson
+* Enders Game Series - Orson Scott Card
+** I've read a few of these, but not the entire series.
+** My two favorites were Enders Game and Speaker for the Dead
+* Snow Crash - Neal Stephenson
+* 1984 - George Orwell
+* Fahrenheight 451 - Ray Bradbury
+* The Lord of the Rings Series - J. R. R. Tolkien
+* The Practice Effect - David Brin
+* The Hobbit - J. R. R. Tolkien
+
+=== Non-Fiction
+
+> There's quite a bit more here than what I have listed.  I've decided to be
+very selective with what I recommend in terms of Non-Fiction as my beliefs
+and worldview have changed significantly over the years.  As an example, I
+wouldn't recommend most books about religion that I've read nowadays - although
+a few may be added again at a later point in time.
+
+* *Geeks: How Two Lost Boys Rode the Internet out of Idaho - Jon Katz*
+** This was an extremely influential book for me at the time, and I still
+   re-read it about every 5 years.
+** I resonated quite a bit with the (real life) story of the two main people in
+   the book.
+** For those who were in school during Columbine (and were nerds, geeks, etc.),
+   you may find the latter half of the book both frustrating (as in, digging
+   up quite a bit) and rewarding (or even cathartic at the end).
+* Leaving Microsoft to Change the World - John Wood
+** A really fantastic read about someone deciding to make their life about
+   something significant for others.
+
+== TV Shows / YouTube Channels / Video Content
+
+_Coming Soon_
