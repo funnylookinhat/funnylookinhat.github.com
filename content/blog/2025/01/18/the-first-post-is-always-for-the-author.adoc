@@ -1,0 +1,27 @@
+---
+title: "The First Post Is Always for the Author"
+date: 2025-01-18T08:55:31-05:00
+draft: true
+---
+
+Late last year I decided that I wanted to start a technical blog. That was the
+primary reason which drove me to rebuild my website in https://gohugo.io/[Hugo].
+It's been a really great project to get the year off to a quick start!
+
+Hugo has certainly been a fun piece of software to dive into - it gives you a
+fast feedback loop and is relatively straightforward.  My only real complaint
+about Hugo is that it's become powerful enough that it's necessarilly complex.
+
+Almost every "Quick Start" guide out there encourages you to pick a theme and
+to just start writing content.  It's hard to find a guide to walk you through
+the "how" of Hugo from the ground up; not even the official documentation had
+anything readily available.
+
+Thankfully, I found this post: https://www.brycewray.com/posts/2022/07/really-getting-started-hugo/[Really getting started with Hugo]
+
+It gives a great "here are the basic building blocks" overview of a layout,
+which is ultimately what most themes really turn out to be.
+
+Ok that's enough for a demo blog post.
+
+Test.

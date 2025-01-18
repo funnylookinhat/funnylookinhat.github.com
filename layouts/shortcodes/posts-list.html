@@ -1,0 +1,7 @@
+<ul class="posts-list">
+  {{ range (where .Site.Pages "Section" "blog") }}
+    {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}"><span class="title">{{ .Title }}</span></a><span class="date">{{ .Date.Format "January 2, 2006" }}</span></li>
+    {{ end }}
+  {{ end }}
+</ul>

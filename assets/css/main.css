@@ -233,3 +233,27 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+ul.posts-list {
+  list-style-type: none;
+  margin: 2rem auto;
+  padding: 0;
+}
+
+ul.posts-list li {
+  margin: 0;
+  padding: 0.5rem 0.5rem;
+  border-top: 1px solid #ccc;
+}
+
+ul.posts-list li:hover {
+  background: #efefef;
+}
+
+ul.posts-list li span.title {
+  font-weight: bold;
+}
+
+ul.posts-list li span.date {
+  float: right;
+}
