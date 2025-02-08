@@ -4,6 +4,8 @@ date: 2025-01-18T08:55:31-05:00
 draft: true
 ---
 
+Why bother writing?
+
 Why start blogging?
 
 Writing out what I'm doing helps me internalize it more
