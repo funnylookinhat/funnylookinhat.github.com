@@ -287,4 +287,16 @@ h1.title .date {
     position: relative;
     text-align: right;
   }
+
+  .text-center.small-image img {
+    width: 70%;
+  }
+  
+  .text-center.medium-image img {
+    width: 80%;
+  }
+  
+  .text-center.large-image img {
+    width: 90%;
+  }
 }
