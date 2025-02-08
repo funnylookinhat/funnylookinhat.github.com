@@ -1,4 +1,7 @@
 {{/* Template file for single pages */}}
 {{ define "main" }}
+	{{ if ne .Title "" }}
+		<h1 class="title">{{ .Title }}</h1>
+	{{ end }}
 	{{ .Content }}
 {{ end }}

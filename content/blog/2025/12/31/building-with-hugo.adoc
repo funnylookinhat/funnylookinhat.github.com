@@ -1,0 +1,41 @@
+---
+title: "Building With Hugo"
+date: 2025-02-08T06:24:06-05:00
+draft: true
+---
+
+== Placeholder
+
+Why bother writing?
+
+Why start blogging?
+
+Writing out what I'm doing helps me internalize it more
+
+Writing out what I'm doing helps others learn with me
+
+The first post gives me a roadmap.
+
+Speaking of tech... when I decided that I wanted to start a technical blog, I
+had a reason to rebuild my existing site. etc. etc. reword
+
+That was the
+primary reason which drove me to rebuild my website in https://gohugo.io/[Hugo].
+It's been a really great project to get the year off to a quick start!
+
+Hugo has certainly been a fun piece of software to dive into - it gives you a
+fast feedback loop and is relatively straightforward.  My only real complaint
+about it is that it's become powerful enough that it's necessarilly complex.
+
+Almost every "Quick Start" guide out there encourages you to pick a theme and
+to just start writing content.  It's hard to find a guide to walk you through
+the "how" of Hugo from the ground up; not even the official documentation had
+anything readily available.
+
+Thankfully, I found this post: https://www.brycewray.com/posts/2022/07/really-getting-started-hugo/[Really getting started with Hugo]
+
+It gives a great "here are the basic building blocks" overview of a layout,
+which is ultimately what most themes really turn out to be.
+
+The source for this site is completely open. If you'd like to see how I
+built the theme and wired it up, check it out: https://github.com/funnylookinhat/funnylookinhat.github.com/[Site source code]

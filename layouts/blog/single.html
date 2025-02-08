@@ -1,0 +1,9 @@
+{{/* Template file for blog posts */}}
+{{ define "main" }}
+  <article class="blog-post">
+    <h1 class="title">{{ .Title }}
+      <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
+    </h1>
+    {{ .Content }}
+  </article>
+{{ end }}

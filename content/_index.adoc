@@ -27,7 +27,7 @@ links and documents that I find interesting.
 * I enjoy reading sci-fi and fantasy books.
 * I used to work out of a barn, but we moved!
 * I love to travel internationally.
-** My most recent trip was to Japan in April of 2023.</li>
+** My most recent trip was to Japan in April of 2023.
 ** All of the countries I've visited (in order of first visit) include:
    Jamaica, France, United Kingdom, Uganda, The Netherlands, Denmark,
   Sweden, Spain, Canada, Japan.
@@ -47,7 +47,7 @@ links and documents that I find interesting.
 ** I'm working on publishing a _"What I'm learning in YYYY"_ - a blog should
    be up before the end of January 2025 which will include a post to that 
    effect.
-* I currently am running Pop OS (GNU/Linux) as my daily driver.</li>
+* I currently am running Pop OS (GNU/Linux) as my daily driver.
 * At our previous home in rural Washington, we worked with the local public
   utility district to build out fiber service to our house. It was
   a really fun technical project, and I'd be happy to share advice with

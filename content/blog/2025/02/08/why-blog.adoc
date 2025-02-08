@@ -1,0 +1,57 @@
+---
+title: "Why blog?"
+date: 2025-02-08T06:00:00-05:00
+draft: false
+---
+
+I've read a lot of introductory blog posts, and each one ultimately sets out to
+describe why it is the author has decided to write (and what it is they will
+write about).  I think that's great - so I'll do the same (as briefly
+as possible).
+
+* I want to get better at communicating in writing.
+* I want to get over the fear of leaving something I've written out there for
+  public consumption - long after I may have improved as a writer or even
+  changed my thoughts on the subject.
+* I want to share what I'm building in my spare time.
+* I want to share with my yearly roadmaps.
+
+On that last point: I've had loose roadmaps for personal and professional
+development over the last few years, but this year, I want to publish mine -
+along with my efforts to complete it - for both my own benefit and that of
+others.
+
+I think it's valuable to write down what it is you intend to do - it can keep
+you most honest and help you stick to a goal or plan.  Or better yet, if you
+decide you need to change that plan,
+you can write *that* down and explain _why_.  That process of commitment and
+iteration is itself a valuable exercise in goal setting and personal
+development.
+
+* "Why did I want to do this in the first place?"
+* "What changed?"
+* "If I'm not doing *that*, then what am I going to do *now*?"
+
+All good questions!
+
+My roadmaps have been largely tied to technical development over the last few
+years, and with that you'll find this to be a technical blog.  You may find
+a book recommendation here or there, but don't expect much more detail than
+you'll already find on my link:/recommendations/#_books[book recommendations].
+
+Something I've found valuable in work is to *communicate where we're going*.
+Whether it's a presentation or a group, telling them what's next
+helps them decide (a) if it's worth sticking around and (b) how to get the most
+out of it.
+
+Here's what my next few posts look like:
+
+* My Roadmap for 2025
+* Quick Review of Hugo (Static Site Generator)
+* Building Something Silly
+
+Here's a sneak peak at that last one.
+
+image::/images/blog/2025/02/08/something-silly.png["An image of a digital counter, with a toggle to load images as quickly as possible.",role="text-center small-image"]
+
+See you next time!
