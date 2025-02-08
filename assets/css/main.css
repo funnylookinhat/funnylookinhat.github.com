@@ -233,6 +233,22 @@ h1.title .date {
   right: 0;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.text-center.small-image img {
+  width: 30%;
+}
+
+.text-center.medium-image img {
+  width: 50%;
+}
+
+.text-center.large-image img {
+  width: 80%;
+}
+
 
 /* Responsive styles for smaller screens */
 @media (max-width: 768px) {
