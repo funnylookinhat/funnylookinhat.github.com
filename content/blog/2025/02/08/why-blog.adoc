@@ -14,7 +14,7 @@ as possible).
   public consumption - long after I may have improved as a writer or even
   changed my thoughts on the subject.
 * I want to share what I'm building in my spare time.
-* I want to share with my yearly roadmaps.
+* I want to share my yearly roadmaps.
 
 On that last point: I've had loose roadmaps for personal and professional
 development over the last few years, but this year, I want to publish mine -
