@@ -104,8 +104,23 @@ li p {
   margin: 0;
 }
 
+footer p.visitors {
+  text-align: center;
+  line-height: 2rem;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+footer p.visitors img {
+  height: 2rem;
+  position: relative;
+  top: 0.5rem;
+}
+
 footer p.license {
   text-align: center;
+  font-size: 1rem;
+  font-style: italic;
 }
 
 ul.emojis-gallery {
