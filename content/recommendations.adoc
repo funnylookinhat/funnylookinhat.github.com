@@ -135,6 +135,64 @@ for a long drive.
 ** To this day, my favorite episode is the one where a father confesses to
    pretending to be the police to get his toddler to go to sleep.
 
+== TV Shows
+
+There are plenty of television shows that I've watched and would recommend, but
+a large portion of that list would likely overlap with whatever post you would
+find telling you the "Top 10 Shows You Must Watch!!".  I'll keep this list to
+the one that are cannon for me.  These are in no particular order; you should
+watch all three in their entirety!
+
+* Star Trek: The Next Generation
+** Amazing cast and excellent writing make this my favorite Star Trek series.
+** Season 1 definitely gets off to a bit of a slow start, but once Mr Warf is
+   head of Security and Riker grows a beard, everything falls into place.
+** I've watched this series through multiple times; I credit the way the show's
+   writers used science fiction to paint the potential of humanity as a huge
+   reason as to why I got hooked on sci-fi in books and tv for the rest of my
+   life.  (I also just love spaceships.)
+** Episodes you can't miss:
+*** The Measure of a Man
+*** The Inner Light
+*** Darmok
+* The X Files
+** I initially got hooked by the monster-of-the-week style episodes when I was
+   young, but I rewatched the series a few times for the overarching plots when
+   I was a bit older.
+** Seasons 8 and 9 (without Mulder) definitely were missing the magic, but then
+   again, maybe the show had done enough in the first 7 seasons.
+** Movies: I'd watch the first and skip the second, unless you really want to
+   just watch everything.
+** Episodes you can't miss:
+*** The Host
+*** Home
+*** Bad Blood
+*** Ice
+* Gilmore Girls
+** I had never heard of this show until some friends in college asked me if I
+   knew how to get access to it so they could keep watching (now that they
+   didn't have TV service in the dorms).  BitTorrent to the rescue!  I showed
+   up the first night to help them figure out how to load the video file and
+   watch it, and I was instantly hooked.  (This was Season 5 territory, so
+   I instantly binge-watched seasons 1 through 4 to catch up to the group).
+   "Gilmore Girls Night" became the highlight of my week for my years at Purdue
+   University.
+** I've watched this series through in its entirety at least 4 times, and I
+   frequently pick up a random season if I'm sick in bed for a few days or
+   need some background noise while I'm working on something.
+** I may get flack for this, but I think Logan was actually the best guy for
+   Rory when they were together.  He pushed her out of her comfort zone and
+   frequently called her out when she needed to hear a reality check from
+   someone else.
+** That said, I'm team Jess.  One of the most frustrating sets of episodes are
+   when he reads the self-help books that Luke had gone through, decides he
+   want to be with Rory, and then totally bungles it by just demanding she
+   take off and leave college to be with him.
+
+== Movies
+
+_TODO! This is a reminder for me to fill this in..._
+
 == Books
 
 This is a list of books (from most to least recent) that I've read and would
@@ -156,7 +214,14 @@ and discovered an epic war between talking cats and walking lizards.
 
 === Fiction
 
+* The Rain Wild Chronicles - Robin Hobb's
+** _I will admit that I almost didn't read the rest of the series after the first book, but I decided to stick with it through at least book two.  It was well worth it!_
+** Dragon Keeper
+** Dragon Haven
+** City of Dragons
+** Blood of Dragons
 * The Tainted Cup - Robert Jackson Bennett
+** _Excellent Holmes and Watson style mystery, with very creative world building.  I'd love another book or two that takes place in the same setting!_
 * Teixcalaan Series
 ** A Desolation Called Peace - Arkady Martine
 ** A Memory Called Empire - Arkady Martine
@@ -172,6 +237,7 @@ and discovered an epic war between talking cats and walking lizards.
 ** Harrow the Ninth - Tamsyn Muir
 ** Nona the Ninth - Tamsyn Muir
 * "Vatta's War" Series
+** _If you've ever played EVE Online, this series will be a fun read.  I'll admit I resubscribed for a few months while reading these books!_
 ** Trading in Danger - Elizabeth Moon
 ** Marque and Reprisal - Elizabeth Moon
 ** Engaging the Enemy - Elizabeth Moon
@@ -205,11 +271,18 @@ and discovered an epic war between talking cats and walking lizards.
 ** City of Stairs - Robert Jackson Bennett
 ** City of Blades - Robert Jackson Bennett
 ** City of Miracles - Robert Jackson Bennett
-* Realm of the Elderlings Series (plural) - Robin Hobbs
-** I particularly enjoyed the following:
-*** Farseer trilogy
-*** Tawny Man trilogy
-*** Fitz and the Fool trilogy
+* The Farseer Trilogy - Robin Hobbs
+** Assassin's Apprentice
+** Royal Assassin
+** Assassin's Quest
+* The Fitz and the Fool Trilogy - Robin Hobbs
+** Fool's Assassin
+** Fool's Quest
+** Assassin's Fate
+* The Tawny Man Trilogy - Robin Hobbs
+** Fool's Errand
+** The Golden Fool
+** Fool's Fat
 * Ready Player One Series - Ernest Cline
 * Seveneves - Neal Stephenson
 * Hyperion - Dan Simmons
