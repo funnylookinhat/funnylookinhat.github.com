@@ -36,7 +36,7 @@ links and documents that I find interesting.
 * My family and I recently moved from Port Hadlock, Washington to Portland,
   Maine, USA
 ** If you're ever in Portland, Maine - let me know and we can meet up!
-** My goal for 2025 is to attend https://monktoberfest.com/[Monktoberfest]
+** My goal for [.line-through]#2025# 2026 is to attend https://monktoberfest.com/[Monktoberfest]
    now that it's nearby!
 
 === Technical Stuff
@@ -44,10 +44,11 @@ links and documents that I find interesting.
 [.technical-stuff]
 * Lately I've been mostly writing code in *Node.js*; I keep looking for 
   opportunities to use *Golang* or *Rust*.
-** I'm working on publishing a _"What I'm learning in YYYY"_ - a blog should
-   be up before the end of January 2025 which will include a post to that 
-   effect.
-* I currently am running Pop OS (GNU/Linux) as my daily driver.
+* I currently am running https://system76.com/pop/[Pop OS (GNU/Linux)] as my daily driver.
+** I haven't upgraded to COSMIC yet... I'll do that soon.  My mental model is
+   pretty attached
+   to having a grid of workspaces (3x3) and COSMIC only supports a horizontal
+   or vertical layout of workspaces.
 * At our previous home in rural Washington, we worked with the local public
   utility district to build out fiber service to our house. It was
   a really fun technical project, and I'd be happy to share advice with
@@ -91,11 +92,6 @@ Feel free to use any of the following to communicate with me.
 * Github: https://github.com/funnylookinhat/
 * LinkedIn: https://www.linkedin.com/in/funnylookinhat/
 * Mastodon: https://toot.funnylookinhat.com/@funnylookinhat
-* [.line-through]#Keybase:# https://keybase.io/funnylookinhat
-** I've mostly stopped using Keybase since its aquisition, but I keep it
-   around just in case it's the only convenient method of communication for
-   someone.
-** I'll likely get rid of it completely once I stand up a Matrix server.
 * IRC: FunnyLookinHat
 ** [.line-through]#Freenode#
 *** I've stopped participating in Freenode network.
@@ -104,6 +100,8 @@ Feel free to use any of the following to communicate with me.
    for a history of why that network is no longer as popular as it
    used to be.
 ** https://libera.chat/[libera.chat]
+*** I'm not on IRC very frequently anymore - but when I do login, these are the
+    channels that I tend to join and idle in.
 *** #docker
 *** #ubuntu
 *** #solus
